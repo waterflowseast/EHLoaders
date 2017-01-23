@@ -1,0 +1,16 @@
+PODS:
+  - EHLoaders (0.1.0)
+
+DEPENDENCIES:
+  - EHLoaders (from `../`)
+
+EXTERNAL SOURCES:
+  EHLoaders:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EHLoaders: 17ebed9417763c70f5642002bed33adffe73a940
+
+PODFILE CHECKSUM: 7415e41db6a2974eb38657bd9697a0fdc880cca0
+
+COCOAPODS: 1.0.0
