@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EHLoaders_Example' do
+  pod 'EHLoaders', :path => '../'
+
+  target 'EHLoaders_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
