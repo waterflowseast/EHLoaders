@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'EHLoaders_Example' do
   pod 'EHLoaders', :path => '../'
+  pod 'Masonry', '~> 0.6.4'
 
   target 'EHLoaders_Tests' do
     inherit! :search_paths

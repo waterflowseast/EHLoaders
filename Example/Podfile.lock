@@ -1,16 +1,19 @@
 PODS:
-  - EHLoaders (0.1.0)
+  - EHLoaders (1.0.0)
+  - Masonry (0.6.4)
 
 DEPENDENCIES:
   - EHLoaders (from `../`)
+  - Masonry (~> 0.6.4)
 
 EXTERNAL SOURCES:
   EHLoaders:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EHLoaders: 17ebed9417763c70f5642002bed33adffe73a940
+  EHLoaders: a0b30e9f1d090c62a3fe5c5604119beb9b03b073
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
 
-PODFILE CHECKSUM: 7415e41db6a2974eb38657bd9697a0fdc880cca0
+PODFILE CHECKSUM: a3c3ab029c1b282cd39bd3a9bf4535a32001752e
 
 COCOAPODS: 1.0.0
